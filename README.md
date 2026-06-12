@@ -1,4 +1,4 @@
-<img width="396" height="450" alt="giphy" src="https://github.com/user-attachments/assets/a9e8cf73-effc-4440-aa75-009d56b723c1" /># Web Development Project 1 - *Community Board*
+# Web Development Project 1 - *Community Board*
 
 Submitted by: **Juan Espitia**
 
